@@ -1,4 +1,4 @@
-module github.com/tree-sitter/tree-sitter-oc
+module github.com/zhangbozhb/tree-sitter-objc
 
 go 1.23
 
